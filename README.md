@@ -45,7 +45,7 @@ https://lnkd.in/fEcRFfZ
 
 https://lnkd.in/fVAEaXC
 
-[Visualizing CNN(https://lnkd.in/f_8C-UC)
+[Visualizing CNN](https://lnkd.in/f_8C-UC)
 
 [RNN](https://lnkd.in/f3Bh7RZ)
 
@@ -139,7 +139,7 @@ https://lnkd.in/gK47KZG
 
 [Data Governance](https://www.lightsondata.com/10-key-components-of-a-data-governance-program/)
 
-[AA Strategy]https://hbr.org/2020/03/whats-the-best-approach-to-data-analytics?ab=hero-subleft-2&utm_source=linkedin&utm_campaign=hbr&utm_medium=social)
+[AA Strategy](https://hbr.org/2020/03/whats-the-best-approach-to-data-analytics?ab=hero-subleft-2&utm_source=linkedin&utm_campaign=hbr&utm_medium=social)
 
 [Data Strategy](https://www.youtube.com/watch?v=m8CDeFNdtzI)
 
@@ -156,13 +156,13 @@ https://lnkd.in/gK47KZG
 ## Classes & Training
 
 ### Google training
-(https://www.itpro.co.uk/business-strategy/careers-training/358334/google-to-offer-free-training-courses-in-ai-kubernetes)
+[Free Kubernetes Training](https://www.itpro.co.uk/business-strategy/careers-training/358334/google-to-offer-free-training-courses-in-ai-kubernetes)
 
 ### Machine Learning
 https://lnkd.in/grbTCmP
 
 ### Cheatsheets
-[28 DS / ML Cheatsheets](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=20_april_beginner_article)
+[28 DS / ML Cheatsheets](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5)
 
 ### Time Series
 https://lnkd.in/et5ptwi
