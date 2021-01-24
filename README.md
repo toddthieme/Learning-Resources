@@ -8,7 +8,7 @@ The purpose of this is to start to organize all of my learning resources in one 
 ## Machine Learning Algorithms
 
 ### General
-Test [Common Algos] (https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/).
+Test [Common Algos](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/).
 
 https://www.analyticsvidhya.com/blog/2019/12/streaming-data-pyspark-machine-learning-model/
 
