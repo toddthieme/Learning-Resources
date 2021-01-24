@@ -8,9 +8,9 @@ The purpose of this is to start to organize all of my learning resources in one 
 ## Machine Learning Algorithms
 
 ### General
-Test [Common Algos](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/).
+[Common Algos](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/).
 
-https://www.analyticsvidhya.com/blog/2019/12/streaming-data-pyspark-machine-learning-model/
+[Pyspark](https://www.analyticsvidhya.com/blog/2019/12/streaming-data-pyspark-machine-learning-model/)
 
 https://lnkd.in/gZN5pvf
 
@@ -20,13 +20,12 @@ https://lnkd.in/gzUVyyG
 
 https://bit.ly/2Vlq0di
 
-Activations
-https://bit.ly/34NMtCB
+[Activations](https://bit.ly/34NMtCB)
 
 ### K Means
-https://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means
+[Random Forest and K Means](https://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means)
 
-https://mubaris.com/posts/kmeans-clustering/
+[K means](https://mubaris.com/posts/kmeans-clustering/)
 
 ### Random Forest
 https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/
