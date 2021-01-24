@@ -8,6 +8,7 @@ The purpose of this is to start to organize all of my learning resources in one 
 # Machine Learning Algorithms
 
 https://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means
+
 https://mubaris.com/posts/kmeans-clustering/
 
 # Topic 2
