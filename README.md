@@ -8,7 +8,8 @@ Topic |  Description
 [Python](https://github.com/toddthieme/Learning-Resources/blob/main/Python/Python%20Resources.md) | Links to articles or training I used on projects, or want to use later, on Python, DS related libraries for data processing and visualization
 [NLP](https://github.com/toddthieme/Learning-Resources/blob/main/NLP/NLP%20Resouces.md) | Links to articles or training I used on projects, or want to use later, on NLP
 [Training Resources (Non MOOC)](https://github.com/toddthieme/Learning-Resources/blob/main/Training%20Resources/Training%20Resources.md) | Links to non mooc courses and training
-
+[Courses](https://github.com/toddthieme/Learning-Resources/blob/main/Courses/Course%20List.md) | Links to courses I have or will take
+[Books](https://github.com/toddthieme/Learning-Resources/blob/main/Books/Book%20Reviews%20and%20Wishlist.md) | Books I have, or will read, and reviews on them
   
 
 
