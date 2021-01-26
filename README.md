@@ -2,8 +2,10 @@
 
 The purpose of this is to start to organize all of my learning resources in one place as opposed to bookmarks and saved posts in various places. This is also to share with others as a learning resource on various topics that might be of interest to them. 
 
-Topic | 
-[Machine Learning](https://github.com/toddthieme/Learning-Resources/blob/main/Machine%20Learning/Machine%20Learning%20Resources.md)   | 
+Topic |  Description
+--- | ---
+[Machine Learning](https://github.com/toddthieme/Learning-Resources/blob/main/Machine%20Learning/Machine%20Learning%20Resources.md) | Links to articles or training I used on projects, or want to use later
+
 
 # Websites
 
