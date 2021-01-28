@@ -18,18 +18,6 @@
 
 - [x] [The Six Sigma Way: How GE, Motorola, and Other Top Companies are Honing Their Performance](https://www.audible.com/pd/The-Six-Sigma-Way-Audiobook/B002V8KOS2?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=PTNVFWVY89R5RHSJCPQN)
 
-## Finance
-
-- [x] [The Intelligent Investor Rev Ed.](https://www.audible.com/pd/The-Intelligent-Investor-Rev-Ed-Audiobook/B00V95QQXA?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
-
-- [ ] [Misbehaving: The Making of Behavioral Economics](https://www.audible.com/pd/Misbehaving-Audiobook/B00VQTE4OC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=PTNVFWVY89R5RHSJCPQN)
-
-- [x] [The Little Book of Common Sense Investing](https://www.audible.com/pd/The-Little-Book-of-Common-Sense-Investing-Audiobook/B002V01EQQ?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
-
-- [x] [Millionaire Teacher: The Nine Rules of Wealth You Should Have Learned in School](https://www.audible.com/pd/Millionaire-Teacher-Audiobook/B008S0P45K?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
-
-- [x] [The Richest Man in Babylon](https://www.audible.com/pd/The-Richest-Man-in-Babylon-Audiobook/B00DC8GDVC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
-
 ## Data / Analytics / UI UX
 
 - [x] [Lean Analytics: The Complete Guide to Using Data...](https://www.audible.com/pd/Lean-Analytics-The-Complete-Guide-to-Using-Data-to-Track-Optimize-and-Build-a-Better-and-Faster-Startup-Business-Audiobook/B07L39YQTM?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
@@ -65,6 +53,7 @@
 - [ ] [Quiet Leadership: Six Steps to Transforming Performance at Work](https://www.audible.com/pd/Quiet-Leadership-Audiobook/B0062P0OBW?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=FNKFB2M70ZAF71AJ8R5E)
 
 ## Communication
+
 - [ ] [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.audible.com/pd/Never-Split-the-Difference-Audiobook/B01CF5O89G?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
 - [x] [Talking to Strangers: What We Should Know About the People We Don't Know](https://www.audible.com/pd/Talking-to-Strangers-Audiobook/1549150340?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
@@ -72,6 +61,8 @@
 - [x] [Made to Stick: Why Some Ideas Survive and Others Die](https://www.audible.com/pd/Made-to-Stick-Audiobook/B002V0QVY6?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
 
 - [x] [Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition](https://www.audible.com/pd/Crucial-Conversations-Audiobook/B009RQZDHS?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
+
+- [x] [Thinking, Fast and Slow](https://www.audible.com/pd/Thinking-Fast-and-Slow-Audiobook/B005TKKCWC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
 
 ## Productivity
 
@@ -89,8 +80,10 @@
 
 - [ ] [How to Become a Scrum Master in 7 Simple Steps: Agile Project Management](https://www.audible.com/pd/How-to-Become-a-Scrum-Master-in-7-Simple-Steps-Audiobook/B0143OESWO?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=PTNVFWVY89R5RHSJCPQN)
 
+- [x] [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich (Expanded and Updated)](https://www.audible.com/pd/The-4-Hour-Workweek-Escape-9-5-Live-Anywhere-and-Join-the-New-Rich-Expanded-and-Updated-Audiobook/B0031AS3BE?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=FNKFB2M70ZAF71AJ8R5E)
 
 ## Health
+
 - [ ] [Meditation for Fidgety Skeptics: A 10% Happier How-to Book](https://www.audible.com/pd/Meditation-for-Fidgety-Skeptics-Audiobook/B075DKZG1P?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
 - [x] [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy](https://www.audible.com/pd/The-Productivity-Project-Audiobook/B018WINMJM?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=FYJE077BNAEKW7WV74EC)
@@ -111,8 +104,16 @@
 
 - [x] [Decisive: How to Make Better Choices in Life and Work](https://www.audible.com/pd/Decisive-Audiobook/B00B3YV3Z8?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
 
-- [x] [Thinking, Fast and Slow](https://www.audible.com/pd/Thinking-Fast-and-Slow-Audiobook/B005TKKCWC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
-
-- [x] [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich (Expanded and Updated)](https://www.audible.com/pd/The-4-Hour-Workweek-Escape-9-5-Live-Anywhere-and-Join-the-New-Rich-Expanded-and-Updated-Audiobook/B0031AS3BE?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=FNKFB2M70ZAF71AJ8R5E)
-
 - [x] [Spark: The Revolutionary New Science of Exercise and the Brain](https://www.audible.com/pd/Spark-Audiobook/B002V5H0OG?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=FNKFB2M70ZAF71AJ8R5E)
+
+## Finance
+
+- [x] [The Intelligent Investor Rev Ed.](https://www.audible.com/pd/The-Intelligent-Investor-Rev-Ed-Audiobook/B00V95QQXA?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
+
+- [ ] [Misbehaving: The Making of Behavioral Economics](https://www.audible.com/pd/Misbehaving-Audiobook/B00VQTE4OC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=PTNVFWVY89R5RHSJCPQN)
+
+- [x] [The Little Book of Common Sense Investing](https://www.audible.com/pd/The-Little-Book-of-Common-Sense-Investing-Audiobook/B002V01EQQ?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
+
+- [x] [Millionaire Teacher: The Nine Rules of Wealth You Should Have Learned in School](https://www.audible.com/pd/Millionaire-Teacher-Audiobook/B008S0P45K?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
+
+- [x] [The Richest Man in Babylon](https://www.audible.com/pd/The-Richest-Man-in-Babylon-Audiobook/B00DC8GDVC?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=2F0G94HJ1A6AYBVJYCE7)
