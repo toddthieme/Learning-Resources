@@ -11,6 +11,10 @@ https://lnkd.in/gzUVyyG
 
 [AutoML](https://www.automl.org/automl/)
 
+[HandsonGit](https://github.com/ageron/handson-ml2)
+
+[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
 ### Regression
 
 [Logistic](https://www.cns.nyu.edu/~david/courses/perceptionLab/Handouts/LogisticHandout.pdf)
@@ -25,6 +29,8 @@ https://bit.ly/2Vlq0di
 [Random Forest and K Means](https://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means)
 
 [K means](https://mubaris.com/posts/kmeans-clustering/)
+
+[ABC items](https://towardsdatascience.com/abc-analysis-with-k-means-clustering-10d63ffff5b)
 
 ### Random Forest
 [Tree Based Algos](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
@@ -52,8 +58,12 @@ https://lnkd.in/fVAEaXC
 
 [LSTM](https://lnkd.in/fYkwzYb)
 
+[Churn](https://towardsdatascience.com/churn-prediction-using-neural-networks-and-ml-models-c817aadb7057)
+
 ### XGBoost
 [XGBoost Tuning](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=22_mar_intermediate_Article)
+
+[Churn](https://towardsdatascience.com/churn-prediction-with-machine-learning-c9124d932174)
 
 ### Time Series
 [Time Series Course](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3)
@@ -68,6 +78,8 @@ https://lnkd.in/fVAEaXC
 
 [E2E Machine Learning Youtube](https://lnkd.in/grbTCmP)
 
+[NeuralProphet](https://towardsdatascience.com/how-to-use-facebooks-neuralprophet-and-why-it-s-so-powerful-136652d2da8b)
+
 ### Recommender Systems
 [TF Recommender](https://towardsdatascience.com/intro-to-recommender-systems-with-tensorflow-and-tfrs-c4d7fdacd0a4?source=social.tw)
 
@@ -76,6 +88,8 @@ https://lnkd.in/fVAEaXC
 https://lnkd.in/gjK_bUV
 
 [Docker](https://www.business-science.io/business/2020/12/03/docker-for-data-science-rep.html?utm_content=buffer532b9&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+
+[Docker, flask, azure, pycaret](https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01)
 
 ### ML / DS Frameworks
 
@@ -90,6 +104,12 @@ https://lnkd.in/gjK_bUV
 ### Pytorch
 [Text Classifying in Pytorch](https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/)
 
+[Guide](https://towardsdatascience.com/minimal-pytorch-subset-for-deep-learning-for-data-scientists-8ccbd1ccba6b)
+
+[PyTorchLightning tuning](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
+
 ### PyCaret
 [PyCaret](https://towardsdatascience.com/machine-learning-in-power-bi-using-pycaret-34307f09394a)
+
+[Pipeline](https://towardsdatascience.com/creating-the-whole-machine-learning-pipeline-with-pycaret-db39a3006840)
 
