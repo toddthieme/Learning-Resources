@@ -32,6 +32,20 @@
 
 [Regex](https://regex101.com/r/7P5p89/1)
 
+[A/B Testing](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)
+
+[DS Projects](https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/?utm_source=linkedin&utm_medium=AV%7Clink%7Chigh-performance-blog%7Cblogs%7C44195%7C0.375)
+
+[MPL](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python/?utm_source=linkedin&utm_medium=social-media&utm_campaign=new-articles)
+
+[Multi Market Mix Model](https://towardsdatascience.com/python-stan-implementation-of-multiplicative-marketing-mix-model-with-deep-dive-into-adstock-a7320865b334)
+
+[Forecasting traffic with GA](https://towardsdatascience.com/forecasting-web-traffic-with-python-and-google-analytics-fb066659ae8f)
+
+[Gui APP](https://towardsdatascience.com/python-gui-app-in-no-time-ea7282e33024)
+
+[Web Scraping](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/?utm_source=blog&utm_medium=5-popular-python-libraries-web-scraping)
+
 
 ### General Python
 
