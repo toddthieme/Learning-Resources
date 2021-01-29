@@ -10,36 +10,7 @@ Topic |  Description
 [Training Resources (Non MOOC)](https://github.com/toddthieme/Learning-Resources/blob/main/Training%20Resources/Training%20Resources.md) | Links to non mooc courses and training
 [Courses](https://github.com/toddthieme/Learning-Resources/blob/main/Courses/Course%20List.md) | Links to courses I have or will take
 [Books](https://github.com/toddthieme/Learning-Resources/blob/main/Books/Book%20Reviews%20and%20Wishlist.md) | Books I have, or will read, and reviews on them
-  
-
-
-
-
-## Data Engineering
-
-[Cloud Provider Architecture](https://media-exp1.licdn.com/dms/image/C4D22AQF2bCWxzeCCwA/feedshare-shrink_800-alternative/0/1611112168523?e=1614211200&v=beta&t=RTjlI3ZIlgdGUc78C7GQs2KrkZVneJN7P8tNaH2KDL8)
-
-[Apache Youtube](https://lnkd.in/g6SxARj)
-
-## Data Strategy
-
-[Data Governance](https://www.lightsondata.com/10-key-components-of-a-data-governance-program/)
-
-[AA Strategy](https://hbr.org/2020/03/whats-the-best-approach-to-data-analytics?ab=hero-subleft-2&utm_source=linkedin&utm_campaign=hbr&utm_medium=social)
-
-[Data Strategy](https://www.youtube.com/watch?v=m8CDeFNdtzI)
-
-## Business Intelligence
-
-[PBI diagram](https://www.coatesdatastrategies.com/diagrams)
-
-[Marketing Metrics](https://media-exp1.licdn.com/dms/image/C4E22AQGqvsTmjN-aLQ/feedshare-shrink_1280-alternative/0/1608539443600?e=1614211200&v=beta&t=pHSYxfRLWMuGnrBJIC-DRUnXeOTpsl0EmIbTieaqyAY)
-
-[Design](https://bibrainz.com/blog/2018/02/01/5-reasons-you-suck-at-bi-dashboard-design/)
-
-[Design](https://www.datastoryacademy.com/fundamental-challenges-dashboard-design)
-
-## Business
-
-[Simple AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai?cid=other-soc-lkn-mka-mka-oth-2003--&sid=3188063202&linkId=83992239&_lrsc=f9df8328-1145-4f20-8929-5d88c1baae41&utm_source=linkedin&utm_medium=elevate)
-
+[Data Engineering](https://github.com/toddthieme/Learning-Resources/blob/main/Data%20Engineering/Data%20Engineering%20Resources.md) | Links to articles or training I used on projects, or want to use later, on Data Engineering / ETL
+[Data Strategy](https://github.com/toddthieme/Learning-Resources/blob/main/Data%20Strategy/Data%20Strategy%20Resources.md) | Articles on data strategy
+[Business Intelligence](https://github.com/toddthieme/Learning-Resources/blob/main/Business%20Intelligence/BI%20Resources.md) | Links to articles or training I used on projects, or want to use later, on BI and visualizations.
+[Business](https://github.com/toddthieme/Learning-Resources/blob/main/Business/Business%20Resources.md) | General Business articles
