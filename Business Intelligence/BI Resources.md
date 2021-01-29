@@ -22,6 +22,10 @@
 
 [visualising data blog](https://www.visualisingdata.com/blog/)
 
+[Design Guide](https://docs.google.com/presentation/d/1gIICYiaKx6WRptREWkJZ7R87GEaUUNgrKehBFstoGxc/edit?ck_subscriber_id=799126229#slide=id.g48710f7531_0_5)
+
+[RadaCad](https://radacad.com/power-bi-modeling-tip-snapshot-table-or-dax-measures)
+
 
 
 
