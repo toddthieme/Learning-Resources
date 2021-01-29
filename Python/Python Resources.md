@@ -28,6 +28,10 @@
 
 [EDA package compare](https://towardsdatascience.com/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b)
 
+[MBA by Dave](https://www.daveondata.com/blog/market-basket-analysis-up-your-data-game/)
+
+[Regex](https://regex101.com/r/7P5p89/1)
+
 
 ### General Python
 
