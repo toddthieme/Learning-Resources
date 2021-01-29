@@ -11,6 +11,10 @@ https://lnkd.in/gzUVyyG
 
 [AutoML](https://www.automl.org/automl/)
 
+### Regression
+
+[Logistic](https://www.cns.nyu.edu/~david/courses/perceptionLab/Handouts/LogisticHandout.pdf)
+
 ### Deep Learning
 
 https://bit.ly/2Vlq0di
