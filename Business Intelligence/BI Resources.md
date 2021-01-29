@@ -26,6 +26,8 @@
 
 [RadaCad](https://radacad.com/power-bi-modeling-tip-snapshot-table-or-dax-measures)
 
+[Data Modeling](https://sqlserverbi.blog/2020/12/31/doing-power-bi-the-right-way-6-data-modeling-essentials-best-practices-2-of-2/amp/)
+
 
 
 
