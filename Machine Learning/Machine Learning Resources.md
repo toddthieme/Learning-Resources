@@ -9,6 +9,8 @@ https://lnkd.in/gZN5pvf
 
 https://lnkd.in/gzUVyyG
 
+[AutoML](https://www.automl.org/automl/)
+
 ### Deep Learning
 
 https://bit.ly/2Vlq0di
@@ -83,3 +85,7 @@ https://lnkd.in/gjK_bUV
 
 ### Pytorch
 [Text Classifying in Pytorch](https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/)
+
+### PyCaret
+[PyCaret](https://towardsdatascience.com/machine-learning-in-power-bi-using-pycaret-34307f09394a)
+
