@@ -16,6 +16,19 @@
 
 [Dataviz](https://towardsdatascience.com/creating-notebook-based-dynamic-dashboards-91f936adc6f3?source=social.tw)
 
+[QuickDA library for EDA](https://medium.com/analytics-vidhya/quickda-low-code-python-library-for-quick-exploratory-data-analysis-b4b1c3af369d)
+
+[Cohort Analysis](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/)
+
+[EDA](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+
+[Frequent Pandas Functions](https://medium.com/analytics-vidhya/pandas-functions-heavy-rotation-6c10f49031)
+
+[RFM in BQ](https://towardsdatascience.com/rfm-analysis-using-bigquery-ml-bfaa51b83086)
+
+[EDA package compare](https://towardsdatascience.com/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b)
+
+
 ### General Python
 
 [Data Science apps](https://www.youtube.com/watch?v=JwSS70SZdyM)
