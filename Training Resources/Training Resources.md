@@ -23,7 +23,7 @@ https://lnkd.in/g6SxARj
 ### Data Science
 [Curriculum TDS](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160)
 
-[Free Books ]}(https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
+[Free Books ](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
 
 [Free Books 2](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 
