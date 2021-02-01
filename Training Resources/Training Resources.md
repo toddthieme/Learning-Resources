@@ -35,7 +35,9 @@ https://lnkd.in/g6SxARj
 https://lnkd.in/gjK_bUV
 
 ### Business Stats
-[Stats](https://unirazakonline.com/courses/businessstatistics/?cl=1)
+[Statistics](https://unirazakonline.com/courses/businessstatistics/?cl=1)
+
+[More Statistics](https://statanalytica.com/blog/statistics-for-data-science/)
 
 ### Youtube Stuff
 [20 YT Channels for DS](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5
