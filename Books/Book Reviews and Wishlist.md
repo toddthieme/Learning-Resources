@@ -4,13 +4,13 @@
 
 - [x] [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.audible.com/pd/Trillion-Dollar-Coach-Audiobook/0062839276?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
-        One of my most recent reads. I was introduced to Bill Campbell in "Measure What Matters" below and then saw this book on someone else's reading list. This book combines many  elements from other books that I have read as its main points.
+     One of my most recent reads. I was introduced to Bill Campbell in "Measure What Matters" below and then saw this book on someone else's reading list. This book combines many  elements from other books that I have read as its main points.
 
-        Bill was a bit rough around the edges and direct. People appreciated his feedback because of a lesson in both "First Break all of the Rules" and "Crucial Conversations", start with heart. They knew Bill was only saying the things he said because he wanted them to succeed and genuinely cared. When feedback comes from that place, it has much more impact. 
+     Bill was a bit rough around the edges and direct. People appreciated his feedback because of a lesson in both "First Break all of the Rules" and "Crucial Conversations", start with heart. They knew Bill was only saying the things he said because he wanted them to succeed and genuinely cared. When feedback comes from that place, it has much more impact. 
 
-        Bill also believed in diversity and what the "Athena Doctrine" would call warm skills or warm personality traits. Many of these traits are seen as feminine such as compassion and empathy. He believed that women were force multipliers on teams and would try to stack teams with them because he knew the impact and value they brought to a team. 
+     Bill also believed in diversity and what the "Athena Doctrine" would call warm skills or warm personality traits. Many of these traits are seen as feminine such as compassion and empathy. He believed that women were force multipliers on teams and would try to stack teams with them because he knew the impact and value they brought to a team. 
 
-        He also believed in coaching as opposed to managing. He was there to develop winning teams and relationships and saw it as a responsibility, not a right, to lead. This paradigm shift is huge and is also echoed by Patrick Lencioni in several of his books. 
+     He also believed in coaching as opposed to managing. He was there to develop winning teams and relationships and saw it as a responsibility, not a right, to lead. This paradigm shift is huge and is also echoed by Patrick Lencioni in several of his books. 
 
 - [x] [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.audible.com/pd/Measure-What-Matters-Audiobook/B07BMHFBCM?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
