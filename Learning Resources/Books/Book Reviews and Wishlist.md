@@ -14,6 +14,10 @@
 
 - [x] [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.audible.com/pd/Measure-What-Matters-Audiobook/B07BMHFBCM?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
+     This was the book that introduced me to Bill Campbell, see above, and was a great resource for OKR implementation. I was familiar with the concept, but this went through some great deal about how to actually make it useful in the context of an organization or department. 
+
+     Of the various metric / measurement frameworks like KPI's, 4DX, SMART, and OKR's, I think implementation is what matters most and how you use it to drive actual business change. It doesn't matter the framework, it just matters what you measure, and how you go about the creation, review, and accountability of said framework. 
+
 - [x] [Traction](https://www.audible.com/pd/Traction-Audiobook/B00A9ZO7T6?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=HV426QE5THKKSX1XCCT4)
 
 - [x] [What Makes an Effective Executive](https://www.audible.com/pd/What-Makes-an-Effective-Executive-Audiobook/B002V8KU9U?ref=a_library_t_c5_libItem_&pf_rd_p=85df3330-9dc4-4a45-ae69-93cc2fc25ca4&pf_rd_r=W2ZM4JHB5E9TWMD55H6T)
