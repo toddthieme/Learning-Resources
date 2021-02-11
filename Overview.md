@@ -14,3 +14,11 @@ Topic |  Description
 [Data Strategy](https://github.com/toddthieme/Learning-Resources/blob/main/Data%20Strategy/Data%20Strategy%20Resources.md) | Articles on data strategy
 [Business Intelligence](https://github.com/toddthieme/Learning-Resources/blob/main/Business%20Intelligence/BI%20Resources.md) | Links to articles or training I used on projects, or want to use later, on BI and visualizations.
 [Business](https://github.com/toddthieme/Learning-Resources/blob/main/Business/Business%20Resources.md) | General Business articles
+
+# Projects
+
+Almost all of my coding projects are work related and the datasets confidential. I will use this space to document my thought process and problem solving frameworks. Additionally, I want to be able to quickly find some of my reuseable code and store it in a centralized place for quick access. 
+
+Project |  Description
+--- | ---
+Place Holder | Place Holder
